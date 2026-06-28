@@ -1,1 +1,17 @@
+<<<<<<< HEAD
+=======
+hola loco
+
+fksd;fjsd;'jf'sdklfgjasdkl;'gjas;'
+gjasd;'gjadsf;'kgj
+asdgjsg;'klasdjgl;'ksdjgl;ksdjgkl;asdgjasdkl;gjsdkl;gjsdfa;
+gkas
+f'gksd
+G;'KASDFG'
+SDAKG'
+L;ASDFKGAS'
+DGKADS'
+GKASDFGL;
+'K
+>>>>>>> 37364d2f851ff5824e48848a7b55aedf268da802
 test
